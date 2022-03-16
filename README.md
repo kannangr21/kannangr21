@@ -1,4 +1,4 @@
-## Hello World! This is [Kannan G R](https://kannangr21.github.io)
+## Hello World! This is Kannan G R
 ---
 ### Myself :
   
