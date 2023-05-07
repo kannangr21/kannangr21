@@ -21,9 +21,9 @@
 
 ### My Stats :
 
-[![Kannan G R's Github stats](https://github-readme-stats.vercel.app/api?username=kannangr21&theme=dark&show_icons=true_border=true)](https://github.com/kannangr21/github-readme-stats)  
+![Kannan G R's Github stats](	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kannangr21&theme=github_dark)  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kannangr21&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=kannangr21&theme=dark)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannangr21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
