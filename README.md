@@ -1,26 +1,37 @@
 ## Hello World! This is Kannan G R
----
-### Myself :
+
+
+☕️ &nbsp; A MEAN stack developer  
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 A JavaScript / Python Developer <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🌎 Looking forward to discover <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-👨🏽‍🎓 Engineering student <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🎯 Focusing my interests <br>
+🧑🏼‍💻  &nbsp; Knows to code in Python 
+
+🌎 &nbsp; Looking forward to discover   
+
+👨🏽‍🎓 &nbsp; Engineering student  
+
+🎯 &nbsp; Focusing my interests 
 
 <hr>
 
 ### Find me :
-[<img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Kannan21053)
-[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kannangr21/)
-[<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kannangr21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kannangr21) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kannangr21) 
 
 <hr>
 
 ### My Stats :
 
-[![Kannan G R's Github stats](https://github-readme-stats.vercel.app/api?username=kannangr21&theme=dark&show_icons=true_border=true)](https://github.com/kannangr21/github-readme-stats)
+[![Kannan G R's Github stats](https://github-readme-stats.vercel.app/api?username=kannangr21&theme=dark&show_icons=true_border=true)](https://github.com/kannangr21/github-readme-stats)  
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kannangr21&theme=dark&hide_border=false)  
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannangr21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+<hr>
+
+### Github Trophies: 
+
+![](https://github-profile-trophy.vercel.app/?username=kannangr21&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+  
+    
+[![](https://visitcount.itsvg.in/api?id=kannangr21&icon=0&color=0)](https://visitcount.itsvg.in)
