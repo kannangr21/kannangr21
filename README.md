@@ -3,11 +3,13 @@
 
 ☕️ &nbsp; A NodeJS developer  
   
-🧑🏼‍💻  &nbsp; Knows to code in Python 
+🧑🏼‍💻 &nbsp; Knows to code in Python 
 
 🌎 &nbsp; Looking forward to discover   
 
 👨🏽‍🎓 &nbsp; Engineer  
+
+⚙️ &nbsp; Interested in System Designs
 
 <hr>
 
