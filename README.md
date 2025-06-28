@@ -1,15 +1,13 @@
 ## Hello World! This is Kannan G R
 
 
-☕️ &nbsp; A MEAN stack developer  
+☕️ &nbsp; A NodeJS developer  
   
 🧑🏼‍💻  &nbsp; Knows to code in Python 
 
 🌎 &nbsp; Looking forward to discover   
 
-👨🏽‍🎓 &nbsp; Engineering student  
-
-🎯 &nbsp; Focusing my interests 
+👨🏽‍🎓 &nbsp; Engineer  
 
 <hr>
 
